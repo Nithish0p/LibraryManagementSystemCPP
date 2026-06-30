@@ -2,7 +2,7 @@
 
 A C++ console application built to learn Object-Oriented Programming.
 
-## Features (Planned)
+## Features(So Far)
 
 - Add books
 - Remove books
